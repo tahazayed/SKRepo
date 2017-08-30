@@ -1,4 +1,4 @@
-Package: videokioskdownloader
+Package: skdownloader
 Version: 1.0.0-1
 Architecture: all
 Maintainer: Taha Amin <tahazayed@gmail.com>
@@ -7,17 +7,11 @@ Depends: init-system-helpers (>= 1.18~), libcurl3, libspdlog-dev
 Homepage: http://www.screenkisok.com/
 Priority: Standard
 Section: main
-Filename: pool/main/v/videokioskdownloader/videokioskdownloader_1.0.0-1_all.deb
-Size: 76620
-SHA256: abceb453c671799328d50f75d31b7d3276e09330da8c520bc2403406ec388d1f
-SHA1: f4bddb48db30e13d89f1fa87fcb31a3050a9f0bb
-MD5sum: 9d8b153d489cb9be6a06ddb49c58ad85
-Description: example package based on GNU hello
-      The GNU hello program produces a familiar, friendly greeting.  It
-      allows non-programmers to use a classic computer science tool which
-      would otherwise be unavailable to them.
-      .
-      Seriously, though: this is an example of how to do a Debian package.
-      It is the Debian version of the GNU Project's `hello world' program
-      (which is itself an example for the GNU Project).
+Filename: pool/main/s/skdownloader/skdownloader_1.0.0-1_all.deb
+Size: 76700
+SHA256: c650640c4f0e8ea6293a823fa1e59af24236493123c7dba7492a8c71508a7563
+SHA1: 689d7cb1dd880679ce61047d36a6ab5c21065c16
+MD5sum: 8adad415b395e33098c75631947cc418
+Description: Hello this  a daemon service to download media for Screen Kiosk.
+             Copyright 2017 Taha Amin.
 
