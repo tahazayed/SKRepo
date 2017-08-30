@@ -1,0 +1,7 @@
+Origin: SKRepo
+Label: Screen Kiosk
+Suite: stable
+Codename: stretch
+Architectures: armhf
+Components: main
+Description: Debian ARM packages hosted on tahazayed github repository
