@@ -2,17 +2,17 @@ Package: skdownloader
 Version: 1.0.2
 Architecture: all
 Maintainer: Taha Amin <tahazayed@gmail.com>
-Installed-Size: 343
+Installed-Size: 328
 Pre-Depends: libspdlog-dev, curl, aria2, sqlite3, bash, sudo
 Depends: init-system-helpers (>= 1.18~)
 Homepage: http://www.screenkisok.com/
 Priority: Standard
 Section: main
 Filename: pool/main/s/skdownloader/skdownloader_1.0.2_all.deb
-Size: 93726
-SHA256: c170fd022154c02c8c1daea299ca006714492afe4d067fcf5dfc81056b989e3f
-SHA1: cac6629dcdab2bfc007f773bead45a8ff7b22005
-MD5sum: 47b98a53db696f43733419ebef06295d
+Size: 87454
+SHA256: 9e2aceaa0c8de6bec1b0d6724e18a12e958e4e13897c6f94278014a2ca20a1cb
+SHA1: 18b56a3c15d45ed3441c1cc14f2f4fddc3773f67
+MD5sum: f6f7dc7b91678d37720379dc3f609306
 Description: Hello this  a daemon service to download media for Screen Kiosk.
              Copyright 2017 Taha Amin.
 
