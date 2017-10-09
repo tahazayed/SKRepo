@@ -2,19 +2,19 @@ Origin: SKRepo
 Label: Screen Kiosk
 Suite: stable
 Codename: stretch
-Date: Sat, 07 Oct 2017 21:47:56 UTC
+Date: Mon, 09 Oct 2017 10:36:18 UTC
 Architectures: armhf
 Components: main
 Description: Debian ARM packages hosted on tahazayed github repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ a0f3ea068637516cf71d42151159aef0 645 main/binary-armhf/Packages
+ f9317fb76bc8980b73f8e8c359e342e2 467 main/binary-armhf/Packages.gz
  e684ed424100d352969363f6419d1263 158 main/binary-armhf/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 8cd383c6c9e9e78102bf8435c1d57d4326887af7 645 main/binary-armhf/Packages
+ 08a221d57a614da30678d3aaf2f7206af16fc014 467 main/binary-armhf/Packages.gz
  f5dad1ab8511547bfbb3c4ebb3dd9b2230943389 158 main/binary-armhf/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ c2b2a3b60a58c25535e2e66dedd6f0cef80b059b97b271eaa416ab409abfda66 645 main/binary-armhf/Packages
+ 18517c647baf5cf5e837a910d153d9fcedb643f033ccf03a3809d4eeaff7cf10 467 main/binary-armhf/Packages.gz
  5037385aad3f0622097b7b45c362b93bfcdcc20430ef1aebccecfdb1564bf52a 158 main/binary-armhf/Release
