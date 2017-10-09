@@ -9,10 +9,10 @@ Homepage: http://www.screenkisok.com/
 Priority: Standard
 Section: main
 Filename: pool/main/s/skdownloader/skdownloader_1.0.2_all.deb
-Size: 106016
-SHA256: 5affc6a0925e62582dce4ba3b066f7d7780e15d5bea6d8f4cdf1e6e93f0c9c82
-SHA1: 18b758f6033c5247b024ed5cbae8a3cabd06d940
-MD5sum: 913681d368a034b51206b24a67e5e4d0
+Size: 106462
+SHA256: d27175f6f318f43ef751b13f4d73db43996dcf79b85c61828944fa3bf185d009
+SHA1: be604bbfe92a19fd883c42881284a51ede3faef6
+MD5sum: 3384d581f3c3677fbeb4dc6508f54d41
 Description: Hello this  a daemon service to download media for Screen Kiosk.
              Copyright 2017 Taha Amin.
 
