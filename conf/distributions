@@ -5,3 +5,4 @@ Codename: stretch
 Architectures: armhf
 Components: main
 Description: Debian ARM packages hosted on tahazayed github repository
+SignWith: CF865DA4
