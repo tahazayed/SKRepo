@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: SKRepo
 Label: Screen Kiosk
 Suite: stable
@@ -18,3 +21,19 @@ SHA256:
  d811c499c527dac3c93e854b92d5512386501a137b57e0373bf72d4d36c6f80f 645 main/binary-armhf/Packages
  57855a3439dc3bc096ed3ce0d6d0c2a53466cc4188215c58f11caf1f877a761a 466 main/binary-armhf/Packages.gz
  5037385aad3f0622097b7b45c362b93bfcdcc20430ef1aebccecfdb1564bf52a 158 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEIiCs7KJk8UCCFutffGtYTM+GXaQFAlnbvJgACgkQfGtYTM+G
+XaR0shAAhgzhlDZlRoJeSGmiDjctkXpPaiunYw5gro2VS9k62dfRzwvh4pE1ktFm
+irwhHtfpOIBTNsFP8xjGnGNJuCeSX5P97/i9vOuCymOR+EAz6Gd2tUj/qEY4ojVg
+GSEfOi9UFgEVGo7vMMvBEkZ9Nsn8ON6RFlOftIdaYgqchMhUKLs7HhSJH/JKdW6F
+ekhOqhtGNMdN9mlUNbutc0ognf+zIKGG3EK+2tZ3YKxysHi6lHn+lbb8ZvgZgJvm
+EBizkqTI+tV/aO2bpr18GeQ/Jr2BrahtYe3jChPVmwLATu21FzTvo72tjPurYxa3
+GybSdzMk6X5uUdJdq6E0MCbpjZaejOSWoBcfYJMxpvacqTt4/mat7ZLxQO0Xu5Vj
+p6TlWQ8etVwl08qavockgae/ONeRmMeKHG9pOsSAc9db1ElFbDN2JmshrwdcWkoC
+5BuCb+YtXZyOdTrJHdS4AV0yw4YEkN92Oz5/qFVGFj20d5nsg/RJoZdikJm/CgpP
+ty5M88K5bzWaKt3sBZCsBuzXAHkLDUQRgvZo3vIC3iP3pYD6cbhhq4FYpyxXpkiF
+wDZrjOZ4LOVzJgTYLva+MnCqAZwWUdPdmgh/9dmxnpFFGbKZvHhIu5HQ61qL1L/+
+CaTNCSiMTKwgNewumnGmkTNBCnaAKy6vspqj9TKoE1imn57JVhs=
+=jp4x
+-----END PGP SIGNATURE-----
