@@ -5,7 +5,7 @@ Origin: SKRepo
 Label: Screen Kiosk
 Suite: stable
 Codename: stretch
-Date: Tue, 10 Oct 2017 17:54:40 UTC
+Date: Tue, 10 Oct 2017 17:56:18 UTC
 Architectures: armhf
 Components: main
 Description: Debian ARM packages hosted on tahazayed github repository
@@ -23,17 +23,17 @@ SHA256:
  5037385aad3f0622097b7b45c362b93bfcdcc20430ef1aebccecfdb1564bf52a 158 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEIiCs7KJk8UCCFutffGtYTM+GXaQFAlndCWMACgkQfGtYTM+G
-XaTtChAAv7Osn0vdcFijOa3vOCD2GfsTgRb9Ujdfwm8yIXCHexu7hhrHW8Ku+viR
-MT7iVv1HshNiJSW+cV7LSAGSrtE8qtK4MS2EpD4B5esMglp2rg25Ev7g7Ksz8Kjs
-sUd2uxKD+7l404VFzHJmBw7RU3ybcwFbN45G7cOkoFXaesk3PphH3x8yWvCSbQ8w
-8VSb/fHbrJ73koeDJ2Nzrv/v7CNRj1TAI3t1Lut9dKzVvzmc7aQrkQta1tZY5av7
-2w+170FosGNPP0/mm2aB5zmSBQIPg4cMQitMESkVTSe+4Xk8FI5K7vChOExHZYpy
-1o8rbytk53bGWpVkiFMp/PkSJD8wXMWkI7aqoz7GwnuaRliGG17uq4COqJhVSkJX
-+pZ1pqRTg5QCfQYug9ejMeFAix4kksNWA2stIipah9ehPvbA5Sz/p406n3nWKwLv
-fyf/xDDYoAtm22aLPw1Zz+lydVgAt6kp7BRqBXxnxeV9ic4PQRdZj1wa0w1ynArD
-FcscS0OC0+V4/89bOl2b3kjL5oipMITGVfoJkKeRIv3YopgAlCKg8HkjNQQhQ28T
-TxsFepZFOBZKrEOdbA5+wVAFTjPkOeX8vwMPAqU8QqK0fvYQM2jkUki4D8iyNFxx
-xJaSY3HexE3/fsyFddQbifTGvNLX1XXibcas9XjvVC57eddyIHo=
-=lQuw
+iQIzBAEBCAAdFiEEIiCs7KJk8UCCFutffGtYTM+GXaQFAlndCcUACgkQfGtYTM+G
+XaTm7BAAvlkbZtJoNrXETWP9j/zkQjN6Lr7z4mKtCiUn6gerKNCBcQFn9EhlL8qg
+4JkjSCJ3zByMagk1vEDq4pmj88pMWKx6poxtsXKEaH7d32ZfdWChESuL+MYrVw53
+no4nd+08MJquDjOA+5wPc2LWO8mYujDRvH2ynCFbAqiuscSlLZffsZQbBG54Sl4s
+vOnRIU0A5Y5rtBhEjH6uJk3LBvLWXbt4Fp/9YTdzZnrlZBGwL1QMgGaEMJLETuNO
+blguiTLc+UFcz3jlTc4bclxY9EB6j+3/6HtXeVFs/77h+Z3ye4KJpLJRezvEMTuW
+wPAZPQJWGYHLDWH57Ngz8RI0ur2S7MXwM8tbGSiImnCPHnha3suPBRS7x0W9BKbt
+RxLlOL3fN928oSfbkSlQx0zZisp1KBg852dloAj0r1XKPQmgJyLa1ddGrOk8rKtz
+BYO/Ukc4wKV5rPpOsP+dmVcXbUr3z+Vj1bV3S/rNIsAOou/CE686FM9/VJoQfT6+
+ERjvhDEKai5lA5cqK8wFgJC0jI2AXX0nasBVglEYOt8HiszOiTCCmvYu+IrGSZAq
+WQ5grr3lS5lpBqpX1vZdSpO9BVyRPFG/b5LGMqVDc2D4AkTMtpHmewrekgtVk2YD
+kp77jYz1ai1CAKPQA+Dpu/MEaKsIwQIqh05oJFc2FQSeqOafpsk=
+=gojq
 -----END PGP SIGNATURE-----
