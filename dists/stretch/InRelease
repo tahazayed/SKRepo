@@ -5,35 +5,35 @@ Origin: SKRepo
 Label: Screen Kiosk
 Suite: stable
 Codename: stretch
-Date: Sun, 15 Oct 2017 13:03:22 UTC
+Date: Sun, 15 Oct 2017 13:03:38 UTC
 Architectures: armhf
 Components: main
 Description: Debian ARM packages hosted on tahazayed github repository
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 2425d481501352a35b44b255c6c0b50b 630 main/binary-armhf/Packages
+ 9b5f3f0521911f04fa6079360a96e656 455 main/binary-armhf/Packages.gz
  e684ed424100d352969363f6419d1263 158 main/binary-armhf/Release
 SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ af76292f3468deda9bcdd8e80017060d896d563a 630 main/binary-armhf/Packages
+ 81c467e481d64cc153e5a10ad7e068690d77d0c3 455 main/binary-armhf/Packages.gz
  f5dad1ab8511547bfbb3c4ebb3dd9b2230943389 158 main/binary-armhf/Release
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 5a57ab8afb1030ceb1b364e270193a7baa525ad6810811b5397ec7a578aed94a 630 main/binary-armhf/Packages
+ 6f756c0d01f8cff744d3d55247cf36c900cb05b3f83cc1377e327dd6cee094ce 455 main/binary-armhf/Packages.gz
  5037385aad3f0622097b7b45c362b93bfcdcc20430ef1aebccecfdb1564bf52a 158 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEIiCs7KJk8UCCFutffGtYTM+GXaQFAlnjXJ0ACgkQfGtYTM+G
-XaTT7Q/8Cvx41Fa0QminvFm13+wOS9UJxb9pG+rSnG5izOhhjX48gFVQYMzfVPug
-sLV8rckVbL6Y1FLEx69kxU2DC4fjf0Ss4GHw/Sk8+Wf1ZZqXxQUnaA9ORNlRLWGf
-zJdt4Tjxi59ir7LjL1qyfwexhex08dIVhI45D7QmzXi1O3MqM3M+eok2OrMEflXL
-jlWSJMGnUJlJ9QyuPnkSoE7GxkFidDSnVe5+nRlMIxK07Kjxfke4ahDqUPc37r8e
-6+4av1sVzmj0aDf0wQ+rhUfbtrpe58/XLpyyWDU/JYvY5rqDdqAlxEWBYMZ5PXrp
-T3YK6Gvsh1Jywq3JqZUT6ZzmgR7aXlMbVQR2YlK4QZOmwMp2HudptOLaSfgzlxVg
-g89xOv10YUr/1oRrGfUaI0lgmDZ67Ga+alf+JdSNvtLlVkUr9s4MlKf4Ji//xlaR
-LmATvKH5/PdAh33t69zLhIqgcGdRc3mnJMjxlnablriu9TsZ/5zSokAdPSUej3ui
-4bjWprq5BFG0FE0ifo+znxC9HaGEnpopocehL2liKCTFFYTC66jv+u2ae2Z8GV4n
-hfPT1EzRryZbSI2vh8Wr3ZVimoI/ES6yVYUYfAq0iC0ODj8w9eOA0IepzIoOD700
-E9xV/xSN4uJLz/4dpzJSmXjb0F06Kz457b0553lP74zA6EpC5Iw=
-=2oVr
+iQIzBAEBCAAdFiEEIiCs7KJk8UCCFutffGtYTM+GXaQFAlnjXKwACgkQfGtYTM+G
+XaRaww//XT718ZAPzCV/15NNcZAw0Z44pK7aj7auidTaMtyXo6QZgMruSYNuWSHR
+vYau0Y31fNzjqHQGSHgCcv5hOz6ZVBuRhH4TDwsCQ2vZffVkieVe1Ccq0jp4QzA5
+aTZiK/w9NydZZxAiWHlWskbOEDVXDmOPmjI3hKNsWiBcuqJxnIRcQbKIlAiOL0nM
+Xq0M6eS6sdL//57z9JIX1s/veiUhm+h30NEc0M3RYtRdHcUt8sy0pzFku31nCKpo
+LXv5M3j2ygOqVCxhbNIYzoq5gchxMtqfr74B28IT5GzVXb7tA/JM1lVfyQm/YF4l
+5u71cRLZZPZskVEhm/W3I1T9g7qBxsZv73pDXO0MJ22h58fmZz7+yzkgjN2DUS9D
+eOz1OS2gFYgjFCGQZYYXn5WNyS6p7KRtJbd3ZjDxbI5S8HRlniYjklTzZ15hvSVb
+3AIqXXCKpYswxRzo09rIfXL5qNX82rUqQwU95mETV9FtpsgULqY0EtPWsEuyk258
+NTu6DqWtgHCu+CMIyl5GUa0rWq4545ItowsSd4d3WlY/KUjqUk2tkPs8KdFsB+RA
+S3EUNGW39n/9No/l+4+y83UiTNgowhaZF1Ih4ZCsktNuH+T9SdSd6Bv+IPFHLRyB
+0vlO7FnS/+uScDPijUVABU00YD5Ir1sed8+InmfC0z/NZOfMxTc=
+=m5cl
 -----END PGP SIGNATURE-----
