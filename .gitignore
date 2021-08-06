@@ -1,0 +1,4 @@
+reprepro_expect
+db/lockfile
+*.new
+

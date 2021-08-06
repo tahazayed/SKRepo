@@ -1,0 +1,10 @@
+Origin: SKRepo
+Label: Screen Kiosk
+Suite: stable
+Codename: stretch
+Version: 3.0
+Architectures: armhf
+Components: main contrib non-free
+UDebComponents: non-free
+Description: Debian ARM packages hosted on tahazayed github repository
+SignWith: D01168E4FFC93019
