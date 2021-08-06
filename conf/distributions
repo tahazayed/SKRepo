@@ -8,3 +8,5 @@ Components: main contrib non-free
 UDebComponents: non-free
 Description: Debian ARM packages hosted on tahazayed github repository
 SignWith: D01168E4FFC93019
+Pull: stretch
+
