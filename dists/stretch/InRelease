@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Origin: SKRepo
 Label: Screen Kiosk
 Suite: stable
@@ -43,3 +46,19 @@ SHA256:
  8f9c045398240d301d7ec811b69e640c19fe6d28d2abe28ce37312154760c7f1 175 non-free/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/debian-installer/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/debian-installer/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEm++xqDYbgpwSAanu0BFo5P/JMBkFAmEOA+0ACgkQ0BFo5P/J
+MBk6dw/8CzMevKf4Bgf8XSqOSEV9QYqM6kOgjbnh+O0DCH6fjBHeOwj8NvaMisAi
+MVbOUFrd5vz6zoPUcjQlwAxV87dBmzKtBVnavWz0l2HL5OfYCEkWD1hzhqg2aeyL
+cx41vKsjLmsxMY4M2ODQnBlln8romtQbEubAS9MQBG18AVwS8W7o/b9GjeNeVRlM
+fmTd/B/Xfvt7lQKI4F2r5fFO7DNmw2VmY07XJggEPjJvAA7LwzYh5SwLywqI2Nrs
+N4F4tDM6jwJdWULsmzzVt2MazHT66WDgXSu4z9k6E3BEAowW6dvp5IFqiDx3Vz1D
+42y2rVbV66oA6s+i7DF1kJuc6oB3SMwTROxYXU+eNF2eFg8MoWX0GOwEEHISncDD
+5xaeSDiQtxOx8VeXnOxFWdUCHem5EOBn9TivqSYypm6EVxhoLqUXoVMLPMiy/LkF
+a65h96bw0/cq84X+weVgQSYqx2daYohnqceUMsnUbZZKa+xUghdFsZ4vDHzV5cek
+csxpcJL17oWFEV/DifB1HnLWuTabRxBP4toiwEeEfZw/eNjIzb6bn+evGm8xh2pO
+eMH9cPZyaPE2NPuj7Qr9kCaFAwSYZaD1ZwuBaJkAZQf4lV9KzH3LuEDy7ZMJA8GM
+aEHkTnpC/VgAXXuCwC4Oh+LwyZBLIaGjhQoUJubHK/wVL/rpFoQ=
+=KUFu
+-----END PGP SIGNATURE-----
