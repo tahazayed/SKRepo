@@ -1,0 +1,7 @@
+Archive: stable
+Version: 3.0
+Component: main
+Origin: SKRepo
+Label: Screen Kiosk
+Architecture: armhf
+Description: Debian ARM packages hosted on tahazayed github repository
