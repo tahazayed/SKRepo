@@ -6,7 +6,7 @@ Label: Screen Kiosk
 Suite: stable
 Codename: stretch
 Version: 3.0
-Date: Sat, 07 Aug 2021 16:06:36 UTC
+Date: Sat, 07 Aug 2021 16:10:56 UTC
 Architectures: armhf
 Components: main contrib non-free
 Description: Debian ARM packages hosted on tahazayed github repository
@@ -48,17 +48,17 @@ SHA256:
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/debian-installer/binary-armhf/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEm++xqDYbgpwSAanu0BFo5P/JMBkFAmEOr40ACgkQ0BFo5P/J
-MBlldw/+NSQgZXKA3Du6QLraSG0DFgS1QoIUF4xvATTeIJzKY4fkzCXy62tGL6YJ
-Fa6LgQr/5VwIh3huunjRzDFealJp0C3PZVMcphXMpUfsOVuTmWHVCsfh9KUjEpEj
-u6Smk2ItkiJl068cUWU8iv+h1d9UkzOMBg7KCzcnrXtcfcRbaBVYM93uDmGYQF5z
-YbfNG2SH3tARfaGk3Moa3bEDwCXvysj5Ihwhm+pT+ePTA1NfUrwL8qEY3upM3MNU
-j86ErAOTrGNaWJWvWWbFSBlGJlEUCkTRZQSBGEqknJHzv8fae7ar+VMarEi4TlGW
-+wLr2EMuyhOL4uuZsQG6kdxUvgQncwww2PyVoV53zFT8DlEglzdyyXiADIA06DS9
-3zsnrwBl+daqplH59Tzq4jOLB1DL1h3kML+guz+N0aBLITVarSAgjcouMDWeKuf+
-i4YMuYxJYkN0LGcRvaqlndbsrdaacpchJdnBvIMERgfQhdk1LD4nFs05yNbRuTeq
-oG+/feB57vnq9BDPDEZfLn43hdPYp16ROSHDJGH2j6YbHCnQk5mB5KPsO6jrWmcy
-iP3xWCn6ylhuIr5gdyAfGqBLyKhbTUyn/gxOPMmhtMKnOAGZB9XmDTYlJaMUOvas
-I8UibI1jddgtH9eWrBIy0JxIjEpleGPoErhE3Q82tiiJj9XXqJ0=
-=LzDB
+iQIzBAEBCAAdFiEEm++xqDYbgpwSAanu0BFo5P/JMBkFAmEOsJEACgkQ0BFo5P/J
+MBn8pA/9FMUGp5JmqFFIV3VNOVBRoBGMYd+TAzoGBl7i7sY9qvray2bCBRuzibRU
+JN7Tbcgspw21QGoerdggvrH2Yot2qeGneHRjGQeE8OD4AbUdF+cF6+nw4e7RdPcl
+iS4jNsUzqNn2daqJfHLr8jR+YBpC6zCaQq5olMTyxWft1lR6Q1y6zkvt2wnelDLz
+UFGHVxO/UAJCTH6TAWN3cn29Zzwys1V1HWZ33LEZCv+J+PsIPRf1AiFHcAE6zGzx
+Qenc0f3/AnBjR6JKJ+Ig+kSRAd7ip7EFFeKd+7cqjoz3PYjTe2pznKNx3jk6thBO
+uhswftlkLy24hAL35UfM3qojdRTwI8p+l7YxIq6M17CdMvV2kHxJ/MLlw5A9SkVW
+s3q6tq5WqaQzRmxUKVopgTf1agYnjObpsrqnnkV8bk9oNAZ5/ateEQWHAw5BAOiN
+rg7RqnpgJ3nSwUe4j2JvhNcXc7S8TnMu7PRXjUsqNKz1pDEz6lUrcvU0MIeMaFXB
+FDTX4WYtq9H8V1fv+Q3r2hgr90Yuh2LIsLDESXN+++ELZrZU4tA3/bSf4dYlCG0L
+OON2c+7MRfI80ZzGWG6izG9mofmEb4FgBi8Uw4TKY8JBzm4B3/FfC8fqoLbMF2p0
+lKYl25+AZJwSWVnS5JHkYjxS8lDqn4nmjbyl+3XRy4NwIvTFrPI=
+=6ZgX
 -----END PGP SIGNATURE-----
