@@ -1,0 +1,64 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: SKRepo
+Label: Screen Kiosk
+Suite: stable
+Codename: stretch
+Version: 3.0
+Date: Sat, 07 Aug 2021 00:12:52 UTC
+Architectures: armhf
+Components: main contrib non-free
+Description: Debian ARM packages hosted on tahazayed github repository
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 24ea48170e95d712fb460ba9049fc056 171 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
+ b6e2280d4ee1cca955dbfde67e749fae 174 contrib/binary-armhf/Release
+ 77870e7e79934560aefac767d66c2a96 687 non-free/binary-armhf/Packages
+ 04845e4eff94b2a6ef4c906040fd34fd 478 non-free/binary-armhf/Packages.gz
+ 41a865391b1a5bb7ddddc4799ec3f386 175 non-free/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/debian-installer/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/debian-installer/binary-armhf/Packages.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 84eea9ef0bcfd6eef4c3c872290ddd22f87f9920 171 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
+ 4ce34c8c8eec96100a0ef0445580201471fbd971 174 contrib/binary-armhf/Release
+ 19ee3be9f590f7c1b23879f3b56731ac8d0bee11 687 non-free/binary-armhf/Packages
+ b40ed3fdb8c3c7bfee853b3fbbf38cdff1004c06 478 non-free/binary-armhf/Packages.gz
+ 039398fabb19c359987d03e2ba84b05af9f10da2 175 non-free/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/debian-installer/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/debian-installer/binary-armhf/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 0e02dd1ffb343543ba2a379c0be7b07b8dcf580ca4f2f2d89c67703ce0971339 171 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
+ ff3c2249c382376b2d77d5c665487f39b2162bbe6ba79901a65c666802175e95 174 contrib/binary-armhf/Release
+ 7f4ce0534e6ffdce21d439d3575e9aa678e75fdef5e84218d5a3ed2297b6ee86 687 non-free/binary-armhf/Packages
+ a6251a70e51ec4bdff1aeaed0b701ce2a8eb7e618d69bde48869f21c4691065d 478 non-free/binary-armhf/Packages.gz
+ 8f9c045398240d301d7ec811b69e640c19fe6d28d2abe28ce37312154760c7f1 175 non-free/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/debian-installer/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/debian-installer/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEm++xqDYbgpwSAanu0BFo5P/JMBkFAmEN0AUACgkQ0BFo5P/J
+MBnOyg/+M4NNGzrU/KcoDTJKYJprvARUqXB1sbOIavkpLFsuVY8Q69h+IQsw2D8v
+K1kSO1jUuuuj8dM47XwogiGY2GTBXJO2Np/JMFAapwbG7UZopPqSlVQXWvgo6MFX
+R8WWPGKvncfNI9P9usIp0UBSN8AyTP24Rn2MgE168yFkwQqFTv2R6Mju+3yeECGH
+P25QUIKp1sRR8vwWoW4YOLkdJAE+NEc7TLnNGk8xjV3wfwJo79A8nPGODZMeJgUH
+5ERsN527MwfWeR6Rb6T0m5JvfK6Fzw9WTwSb4kpbjdsvm0hgpa5U56Tl/y/J+KUC
+LGzu4LZ65o7eMF5/jm19CmSV+YewGts+0VNrRZ4NBvupN3IGBJPNYrXysECiB2BD
+nqWVglPG103QEAjVMAjuzTsCVX99MGRfwMzyuo9qY/bPa1vjyv+YNp2uRgO9ka2H
+h9DHOXpMGdQVd/R+VP6LrHDwTivPM9TRV3WB+bTkySoxRNnraSO2dcnyC15IvlLB
+QHxaZbf57FyIeuvK259hHVi03HnR1Kwcm2W3ctxCQ5A9bcPQxQe1aVGMk6b26ReH
+w3mn0GRDBTzkonVGvwDfBdM61zqVf9cCtGBPY4O2FnRGWJ/QWVzNAj1ILsPzlzcE
+0dPeMbabjQ5Xpa0kA0fiDCtYR7Q8fF50xc4tXuNHbkusU+aGXIE=
+=c8st
+-----END PGP SIGNATURE-----
