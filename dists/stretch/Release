@@ -3,7 +3,7 @@ Label: Screen Kiosk
 Suite: stable
 Codename: stretch
 Version: 3.0
-Date: Sat, 22 Apr 2023 12:09:27 UTC
+Date: Sun, 23 Apr 2023 12:09:18 UTC
 Architectures: armhf
 Components: main contrib non-free
 Description: Debian ARM packages hosted on tahazayed github repository
@@ -14,8 +14,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
  b6e2280d4ee1cca955dbfde67e749fae 174 contrib/binary-armhf/Release
- 62284f9c2499672b930660ab94b2ea41 649 non-free/binary-armhf/Packages
- 5c7a951511c4e30b308e53ae1b9408b1 451 non-free/binary-armhf/Packages.gz
+ 3e4531019758e218142c58c0060c3106 649 non-free/binary-armhf/Packages
+ 5165e3f32e5e3b32ceea5742905c1a44 450 non-free/binary-armhf/Packages.gz
  41a865391b1a5bb7ddddc4799ec3f386 175 non-free/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 non-free/debian-installer/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 non-free/debian-installer/binary-armhf/Packages.gz
@@ -26,8 +26,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
  4ce34c8c8eec96100a0ef0445580201471fbd971 174 contrib/binary-armhf/Release
- 7b78bdf8e7742c3fe4cd34153561a82d3aac1267 649 non-free/binary-armhf/Packages
- 5b0bec6b588e4a903e7ce67fa4ee469b08b346ed 451 non-free/binary-armhf/Packages.gz
+ 1dd3feac1c15ee601dfb038f5b9e354868b4f6ca 649 non-free/binary-armhf/Packages
+ 228295d601def411a6ecc02b724325f65193acfd 450 non-free/binary-armhf/Packages.gz
  039398fabb19c359987d03e2ba84b05af9f10da2 175 non-free/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/debian-installer/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/debian-installer/binary-armhf/Packages.gz
@@ -38,8 +38,8 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
  ff3c2249c382376b2d77d5c665487f39b2162bbe6ba79901a65c666802175e95 174 contrib/binary-armhf/Release
- cac9913d07b3a17a72ea8854f3097e329a2ba4bd7cc169e39efdc9e1997749de 649 non-free/binary-armhf/Packages
- 46be0f7f8b341c3b8c9eb2fbd79f1a6b05d6ddd57428f6d1d01fbfd9695cf4cc 451 non-free/binary-armhf/Packages.gz
+ 52892b92cbe30a41ed8a8e6fd7f5cbc5a5554e802f456bed293eab4f8d2c8792 649 non-free/binary-armhf/Packages
+ 4a5350c6622c10803d2637bd8dd1cb5e014abe97045d3b3a3c58a6807aa56c07 450 non-free/binary-armhf/Packages.gz
  8f9c045398240d301d7ec811b69e640c19fe6d28d2abe28ce37312154760c7f1 175 non-free/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/debian-installer/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/debian-installer/binary-armhf/Packages.gz
