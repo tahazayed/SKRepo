@@ -6,7 +6,7 @@ Label: Screen Kiosk
 Suite: stable
 Codename: stretch
 Version: 3.0
-Date: Fri, 30 Jun 2023 11:06:47 UTC
+Date: Sat, 01 Jul 2023 11:06:56 UTC
 Architectures: armhf
 Components: main contrib non-free
 Description: Debian ARM packages hosted on tahazayed github repository
@@ -17,8 +17,8 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
  b6e2280d4ee1cca955dbfde67e749fae 174 contrib/binary-armhf/Release
- 96d928f85a595cfa5cd033cee6f64c3c 647 non-free/binary-armhf/Packages
- 108ca0df845c1791e1379e23417d5d53 450 non-free/binary-armhf/Packages.gz
+ 236602dacf295d0da6a709a2732d1207 647 non-free/binary-armhf/Packages
+ f9528f293fe0171d67a6a1052f57b299 450 non-free/binary-armhf/Packages.gz
  41a865391b1a5bb7ddddc4799ec3f386 175 non-free/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 non-free/debian-installer/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 non-free/debian-installer/binary-armhf/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
  4ce34c8c8eec96100a0ef0445580201471fbd971 174 contrib/binary-armhf/Release
- 6a3dbe09a8648356cf9692a693ad34c005c5669b 647 non-free/binary-armhf/Packages
- a24caf6ef7d7274ae932eab731a0a8033231c1b9 450 non-free/binary-armhf/Packages.gz
+ c52a67d496e29edbe90a296d22a13a4a7e0d11c5 647 non-free/binary-armhf/Packages
+ 221678ffd76cdb8c082349db5c042d3d74174173 450 non-free/binary-armhf/Packages.gz
  039398fabb19c359987d03e2ba84b05af9f10da2 175 non-free/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/debian-installer/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/debian-installer/binary-armhf/Packages.gz
@@ -41,24 +41,24 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
  ff3c2249c382376b2d77d5c665487f39b2162bbe6ba79901a65c666802175e95 174 contrib/binary-armhf/Release
- 513fb80d2c0e8d73f5534cb5952c7a16d491e9caf4f5394f0054b7c0d9b4b5da 647 non-free/binary-armhf/Packages
- d6c699e7213b960a7bec35513eadce06a1634a170046ff102758e12c00a576fe 450 non-free/binary-armhf/Packages.gz
+ fd77f1eba38edaa2c1b9e1966d4c8e985ba7228f4b4ba0d8e9938a5a9750ff1c 647 non-free/binary-armhf/Packages
+ 93159683c32d27dc65e792d95b56c6d4304e566a0d3ba05d7d4e0b378f7a2c7d 450 non-free/binary-armhf/Packages.gz
  8f9c045398240d301d7ec811b69e640c19fe6d28d2abe28ce37312154760c7f1 175 non-free/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/debian-installer/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/debian-installer/binary-armhf/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEm++xqDYbgpwSAanu0BFo5P/JMBkFAmSet0gACgkQ0BFo5P/J
-MBmKihAAgXKgkZzlIuJnaW1WM6myEu0oPa5m2hDPubchvC1tlroQaa7TcL26p3Im
-LLRMFOhvPpDT0KTC/8yhyQCibzpvFNyOYa7FdgHZixLsUB0LGxTBLaWbuRRT3aox
-674bG3CIs0f0P2zkIYzxBlTCx0s7h6Ot/R62D6kWCKJ0c6j1wwd5VF9hHyG40Aja
-wkWU3/P8IVeA5MSJ6Kx59l2pJXtYdCX2hv3HcaWOiYqFSnhSP7F4U0CdUqTvN5ao
-VtQv/AYLaCnUZN/yom7A829Dv9XaOVPR4yfgqkLvJoc30xcLuoFqK2KgkHiIDoaI
-P/6mcuG+K6w4T7j0uUas98M2RLYJRvgJcK5EYAC//dKcytpsrpyKRiCHzpn5t3Uc
-zwhIv+3OEOnCB2HkpvM/xNzFqCrxbNO9XbEEiGZDS1CS+KH3jW4M97ayxXZNsUgi
-0SP6tvqezXbnKggcsPE/mbidpD9JdAy5WP6itF9SX+c0Lx7IulF4AAV4wJ52u1p8
-8YRGmwW9x8rT5SFXSOtYDKASwnhBp1d5XFkmdAr5qDnW43eBd9wziRKbnbuTg5de
-4pXSLfdoHP8kr0YGnnyiR8g736c+DqOp1nOEyonlHNhdo+9LuQA7ji7thhyYV/69
-XJJ0TM5BryZVXfgF/WQMymKvfdnr11lOYBJDHEyT+4ait3EC2Os=
-=Eo/2
+iQIzBAEBCgAdFiEEm++xqDYbgpwSAanu0BFo5P/JMBkFAmSgCNEACgkQ0BFo5P/J
+MBkVog/+IcNaebldEBfHQ4OjJcb7XSKs9Y5C0I7vDoET+siXelESzINRK29ZUT/j
+vG7/Ci+ma8sbDXNgRcQarvCmUw66srPzUDVs4ulYMo/f2DYC29897n+YtpX36rK7
+9LoyUN6SUDJ/6bD7/VkUHXA2AfumZRywLF4LrgX7nK7azfT40Qm5IxYzXR4qhqnJ
+FUcW4o4UsZNPf8EajClynA+BeJOS9uIpG5oHb4xrIl/fECWIzJCjuBx+9/kmAb20
+bIUsvi6/NWtltjApMyqgbwkiGItpFlUNTAWf8cKD6bfPGleuRYTCDrdjkOHdI1xZ
++ihrL8J58yZlul4Ktj3K9cobVwfErFd6yJLo5UMxx9jnfnjPxZQM7IDjOlxnMzY7
+bZotUajRqnc317D3S/IJYovFXns/7AkZdISOmY0AS0FBfuK2/D76leqnVwWHEa8X
+dzPYWGXcRdKGLeqfnK4u6GwC8MBktSRR4znc+IGgUoY5GhTQYbKNfgrsKACYnDAR
+Jnx0gkYy7ir3QuuS89E2mzRA83iwi99yJNoo3+A0p+2uwcs9ZI6+R7cu8npWRZ6/
+k74+bPirjO4Hee+4ymZAVSemXI80B68/AAVvZ70RauUFlF/I4/nJTgO+7/jNQyyq
+5lnQ5eUH+f34HPRFiRh0RAdlj4PW2RoeAq5YE4WUvCCY5n1s73U=
+=zKkD
 -----END PGP SIGNATURE-----
