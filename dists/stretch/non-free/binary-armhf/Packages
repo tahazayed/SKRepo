@@ -1,5 +1,5 @@
 Package: skdownloader
-Version: 0.25.12.20250102120408
+Version: 0.25.13.20250103120429
 Architecture: armhf
 Maintainer: Taha Elsayed <tahazayed@gmail.com>
 Installed-Size: 467
@@ -7,11 +7,11 @@ Pre-Depends: curl, aria2, sqlite3, bash, sudo
 Homepage: http://www.screenkisok.com/
 Priority: Standard
 Section: non-free
-Filename: pool/non-free/s/skdownloader/skdownloader_0.25.12.20250102120408_armhf.deb
-Size: 111104
-SHA256: 766e4d5b26f6c695ce878cadd3e181727cbd5672027c0ea2521b26db70d6fef8
-SHA1: 011a9ca75b5ee2b04de6cec66abe432ed1f12d26
-MD5sum: c555f9bcbf0f270a3552b4c151d354c4
+Filename: pool/non-free/s/skdownloader/skdownloader_0.25.13.20250103120429_armhf.deb
+Size: 111100
+SHA256: b1f24641c4c89436e414fd30e2142bdcb2a436270e1ca8cde16aa3bf49a034fe
+SHA1: 4dbc27d5212e4d39dd06cac58dbb8ed833c9db8c
+MD5sum: 52d870141ca5536f7a25ce1864af759b
 Description: Hello this  a daemon service to download media for Screen Kiosk.
              Copyright 2017-2021 Taha Elsayed.
 
